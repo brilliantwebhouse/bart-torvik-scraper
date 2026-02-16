@@ -1,0 +1,198 @@
+{
+  "scraped_at": "2026-02-16T21:29:23.441226",
+  "total_games": 24,
+  "data": [
+    {
+      "time": "07:00 AM",
+      "matchup": "2 Houston at 8 Iowa St. ESPN",
+      "network": "ESPN",
+      "trank_line": "Iowa St. -1.2, 68-67 (55%)",
+      "ttq": "100",
+      "result": ""
+    },
+    {
+      "time": "05:00 AM",
+      "matchup": "61 Syracuse at 6 Duke ESPN",
+      "network": "ESPN",
+      "trank_line": "Duke -17.2, 81-63 (94%)",
+      "ttq": "61",
+      "result": ""
+    },
+    {
+      "time": "06:00 AM",
+      "matchup": "72 Stephen F. Austin at 174 Texas A&M Corpus Chris ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Stephen F. Austin -3.9, 67-63 (66%)",
+      "ttq": "55",
+      "result": ""
+    },
+    {
+      "time": "05:30 AM",
+      "matchup": "206 New Orleans at 279 Incarnate Word ESPN+",
+      "network": "ESPN+",
+      "trank_line": "New Orleans -0.8, 79-78 (53%)",
+      "ttq": "50",
+      "result": ""
+    },
+    {
+      "time": "05:00 AM",
+      "matchup": "187 South Alabama at 195 Marshall ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Marshall -3.3, 74-71 (63%)",
+      "ttq": "49",
+      "result": ""
+    },
+    {
+      "time": "04:00 AM",
+      "matchup": "216 Colgate at 277 Boston University CBSSN",
+      "network": "CBSSN",
+      "trank_line": "Boston University -0.1, 74-73 (50%)",
+      "ttq": "48",
+      "result": ""
+    },
+    {
+      "time": "06:00 AM",
+      "matchup": "256 Southern at 305 Texas Southern",
+      "network": "",
+      "trank_line": "Texas Southern -0.8, 78-77 (53%)",
+      "ttq": "48",
+      "result": ""
+    },
+    {
+      "time": "05:00 AM",
+      "matchup": "269 Grambling St. at 325 Prairie View A&M",
+      "network": "",
+      "trank_line": "Grambling St. -0.6, 76-75 (52%)",
+      "ttq": "46",
+      "result": ""
+    },
+    {
+      "time": "06:00 AM",
+      "matchup": "239 Nicholls St. at 309 Houston Christian ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Nicholls St. -0.7, 72-71 (53%)",
+      "ttq": "44",
+      "result": ""
+    },
+    {
+      "time": "06:00 AM",
+      "matchup": "271 Arkansas Pine Bluff at 311 Alabama A&M",
+      "network": "",
+      "trank_line": "Alabama A&M -1.2, 74-73 (55%)",
+      "ttq": "43",
+      "result": ""
+    },
+    {
+      "time": "06:00 AM",
+      "matchup": "210 Drexel at 213 Stony Brook CBSSN",
+      "network": "CBSSN",
+      "trank_line": "Stony Brook -3.2, 65-62 (64%)",
+      "ttq": "43",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "272 Southeastern Louisiana at 292 East Texas A&M ESPN+",
+      "network": "ESPN+",
+      "trank_line": "East Texas A&M -2.2, 66-64 (60%)",
+      "ttq": "41",
+      "result": ""
+    },
+    {
+      "time": "06:00 AM",
+      "matchup": "245 Abilene Christian at 192 Tarleton St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Tarleton St. -6.2, 72-66 (74%)",
+      "ttq": "40",
+      "result": ""
+    },
+    {
+      "time": "05:30 AM",
+      "matchup": "218 Lamar at 129 UT Rio Grande Valley ESPN+",
+      "network": "ESPN+",
+      "trank_line": "UT Rio Grande Valley -9.1, 74-64 (81%)",
+      "ttq": "37",
+      "result": ""
+    },
+    {
+      "time": "05:00 AM",
+      "matchup": "220 Bethune Cookman at 335 Jackson St. ESPNU",
+      "network": "ESPNU",
+      "trank_line": "Bethune Cookman -5.0, 77-72 (68%)",
+      "ttq": "36",
+      "result": ""
+    },
+    {
+      "time": "06:00 AM",
+      "matchup": "319 Florida A&M at 340 Alcorn St.",
+      "network": "",
+      "trank_line": "Alcorn St. -1.4, 71-70 (56%)",
+      "ttq": "36",
+      "result": ""
+    },
+    {
+      "time": "05:30 AM",
+      "matchup": "80 McNeese St. at 304 Northwestern St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "McNeese St. -10.4, 76-65 (85%)",
+      "ttq": "34",
+      "result": ""
+    },
+    {
+      "time": "05:00 AM",
+      "matchup": "332 Norfolk St. at 354 Maryland Eastern Shore DSN",
+      "network": "DSN",
+      "trank_line": "Norfolk St. -0.1, 66-65 (50%)",
+      "ttq": "33",
+      "result": ""
+    },
+    {
+      "time": "03:00 AM",
+      "matchup": "287 Louisiana at 238 Old Dominion",
+      "network": "",
+      "trank_line": "Old Dominion -6.2, 70-63 (75%)",
+      "ttq": "31",
+      "result": ""
+    },
+    {
+      "time": "05:00 AM",
+      "matchup": "321 Wagner at 230 LIU NEC Front Row",
+      "network": "NEC Front Row",
+      "trank_line": "LIU -10.3, 76-65 (84%)",
+      "ttq": "23",
+      "result": ""
+    },
+    {
+      "time": "05:00 AM",
+      "matchup": "355 Morgan St. at 350 North Carolina Central ESPN+",
+      "network": "ESPN+",
+      "trank_line": "North Carolina Central -5.1, 78-73 (69%)",
+      "ttq": "19",
+      "result": ""
+    },
+    {
+      "time": "05:00 AM",
+      "matchup": "229 Howard at 361 Delaware St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Howard -9.3, 69-60 (84%)",
+      "ttq": "18",
+      "result": ""
+    },
+    {
+      "time": "02:30 AM",
+      "matchup": "364 Coppin St. at 356 South Carolina St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "South Carolina St. -8.9, 78-69 (80%)",
+      "ttq": "7",
+      "result": ""
+    },
+    {
+      "time": "05:00 AM",
+      "matchup": "365 Mississippi Valley St. at 307 Alabama St.",
+      "network": "",
+      "trank_line": "Alabama St. -16.8, 78-62 (94%)",
+      "ttq": "2",
+      "result": ""
+    }
+  ]
+}

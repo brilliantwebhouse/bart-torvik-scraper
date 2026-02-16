@@ -1,0 +1,37 @@
+name: Daily Bart Torvik Scrape
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # 13:00 UTC daily
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add rankings.json schedule.json
+          git commit -m "Auto-update rankings and schedule: $(date -u)" || echo "No changes to commit"
+          git push
