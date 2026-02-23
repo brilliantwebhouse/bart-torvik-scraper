@@ -1,173 +1,77 @@
 {
-  "scraped_at": "2026-02-22T13:40:10.989756",
-  "total_games": 21,
+  "scraped_at": "2026-02-23T14:05:04.444696",
+  "total_games": 9,
   "data": [
     {
-      "time": "09:00 PM",
-      "matchup": "24 Iowa at 28 Wisconsin FS1",
-      "network": "FS1",
-      "trank_line": "Wisconsin -3.3, 76-73 (62%)",
-      "ttq": "80",
+      "time": "12:00 AM",
+      "matchup": "14 Louisville at 28 North Carolina ESPN",
+      "network": "ESPN",
+      "trank_line": "North Carolina -0.2, 81-80 (51%)",
+      "ttq": "95",
       "result": ""
     },
     {
-      "time": "06:00 PM",
-      "matchup": "36 Ohio St. at 15 Michigan St. CBS",
-      "network": "CBS",
-      "trank_line": "Michigan St. -8.3, 76-68 (79%)",
-      "ttq": "71",
+      "time": "02:00 AM",
+      "matchup": "4 Houston at 15 Kansas ESPN",
+      "network": "ESPN",
+      "trank_line": "Houston -1.3, 68-67 (55%)",
+      "ttq": "95",
       "result": ""
     },
     {
-      "time": "09:00 PM",
-      "matchup": "110 Florida Atlantic at 152 North Texas ESPNU",
-      "network": "ESPNU",
-      "trank_line": "North Texas -0.6, 69-68 (53%)",
-      "ttq": "64",
-      "result": ""
-    },
-    {
-      "time": "05:00 PM",
-      "matchup": "134 UAB at 103 Memphis ESPN2",
-      "network": "ESPN2",
-      "trank_line": "Memphis -6.7, 77-70 (74%)",
-      "ttq": "54",
-      "result": ""
-    },
-    {
-      "time": "06:00 PM",
-      "matchup": "186 Green Bay at 217 Detroit Mercy ESPN+",
+      "time": "12:30 AM",
+      "matchup": "122 UT Rio Grande Valley at 78 McNeese St. ESPN+",
       "network": "ESPN+",
-      "trank_line": "Detroit Mercy -2.0, 76-74 (58%)",
-      "ttq": "50",
+      "trank_line": "McNeese St. -7.6, 76-68 (77%)",
+      "ttq": "51",
       "result": ""
     },
     {
-      "time": "07:00 PM",
-      "matchup": "194 Northern Kentucky at 177 Youngstown St. ESPN+",
+      "time": "12:00 AM",
+      "matchup": "190 Texas A&M Corpus Chris at 296 Southeastern Louisiana ESPN+",
       "network": "ESPN+",
-      "trank_line": "Youngstown St. -5.0, 79-74 (68%)",
-      "ttq": "48",
-      "result": ""
-    },
-    {
-      "time": "07:00 PM",
-      "matchup": "198 Towson at 206 Drexel CBSSN",
-      "network": "CBSSN",
-      "trank_line": "Drexel -2.8, 62-59 (63%)",
+      "trank_line": "Texas A&M Corpus Chris -2.1, 64-62 (60%)",
       "ttq": "44",
       "result": ""
     },
     {
-      "time": "07:00 PM",
-      "matchup": "265 Purdue Fort Wayne at 297 Cleveland St. ESPN+",
+      "time": "12:30 AM",
+      "matchup": "194 New Orleans at 74 Stephen F. Austin ESPN+",
       "network": "ESPN+",
-      "trank_line": "Cleveland St. -2.0, 83-81 (57%)",
-      "ttq": "44",
-      "result": ""
-    },
-    {
-      "time": "07:00 PM",
-      "matchup": "181 Robert Morris at 117 Wright St. ESPNU",
-      "network": "ESPNU",
-      "trank_line": "Wright St. -7.6, 76-69 (77%)",
-      "ttq": "43",
-      "result": ""
-    },
-    {
-      "time": "05:00 PM",
-      "matchup": "257 Boston University at 305 Lehigh CBSSN",
-      "network": "CBSSN",
-      "trank_line": "Lehigh -0.9, 72-71 (54%)",
+      "trank_line": "Stephen F. Austin -14.3, 82-68 (88%)",
       "ttq": "42",
       "result": ""
     },
     {
-      "time": "07:00 PM",
-      "matchup": "222 Rice at 174 Tulane ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Tulane -6.4, 76-69 (73%)",
+      "time": "12:00 AM",
+      "matchup": "244 Nicholls St. at 224 Lamar CBSSN",
+      "network": "CBSSN",
+      "trank_line": "Lamar -5.0, 76-71 (69%)",
       "ttq": "40",
       "result": ""
     },
     {
-      "time": "05:00 PM",
-      "matchup": "237 American at 323 Lafayette ESPN+",
+      "time": "12:30 AM",
+      "matchup": "280 Incarnate Word at 295 Northwestern St. ESPN+",
       "network": "ESPN+",
-      "trank_line": "American -2.5, 72-70 (60%)",
-      "ttq": "39",
-      "result": ""
-    },
-    {
-      "time": "07:00 PM",
-      "matchup": "231 Saint Peter's at 195 Siena ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Siena -5.4, 70-65 (72%)",
-      "ttq": "38",
-      "result": ""
-    },
-    {
-      "time": "07:00 PM",
-      "matchup": "258 Fairfield at 197 Quinnipiac ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Quinnipiac -7.6, 79-71 (76%)",
-      "ttq": "38",
-      "result": ""
-    },
-    {
-      "time": "08:00 PM",
-      "matchup": "273 Milwaukee at 169 Oakland ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Oakland -11.2, 88-77 (82%)",
+      "trank_line": "Northwestern St. -3.0, 73-70 (62%)",
       "ttq": "35",
       "result": ""
     },
     {
-      "time": "06:00 PM",
-      "matchup": "250 Iona at 149 Merrimack ESPN+",
+      "time": "12:30 AM",
+      "matchup": "317 Houston Christian at 290 East Texas A&M ESPN+",
       "network": "ESPN+",
-      "trank_line": "Merrimack -9.0, 73-64 (81%)",
-      "ttq": "35",
-      "result": ""
-    },
-    {
-      "time": "06:00 PM",
-      "matchup": "293 Sacred Heart at 183 Marist ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Marist -10.7, 76-66 (84%)",
+      "trank_line": "East Texas A&M -5.1, 70-65 (70%)",
       "ttq": "29",
       "result": ""
     },
     {
-      "time": "05:00 PM",
-      "matchup": "331 Holy Cross at 336 Bucknell ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Bucknell -3.1, 71-68 (63%)",
-      "ttq": "28",
-      "result": ""
-    },
-    {
-      "time": "05:00 PM",
-      "matchup": "338 Niagara at 357 Rider ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Niagara -0.3, 65-64 (51%)",
-      "ttq": "27",
-      "result": ""
-    },
-    {
-      "time": "09:00 PM",
-      "matchup": "344 UTSA at 62 Tulsa ESPNEWS",
-      "network": "ESPNEWS",
-      "trank_line": "Tulsa -30.0, 95-65 (98%)",
-      "ttq": "26",
-      "result": ""
-    },
-    {
-      "time": "07:00 PM",
-      "matchup": "348 Canisius at 292 Mount St. Mary's ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Mount St. Mary's -8.5, 70-61 (82%)",
-      "ttq": "18",
+      "time": "01:00 AM",
+      "matchup": "365 Mississippi Valley St. at 289 Grambling St.",
+      "network": "",
+      "trank_line": "Grambling St. -16.5, 75-58 (95%)",
+      "ttq": "2",
       "result": ""
     }
   ]
