@@ -1,5 +1,174 @@
 {
-  "scraped_at": "2026-02-26T14:07:12.562530",
-  "total_games": 0,
-  "data": []
+  "scraped_at": "2026-02-27T13:56:17.417412",
+  "total_games": 21,
+  "data": [
+    {
+      "time": "01:00 AM",
+      "matchup": "1 Michigan at 5 Illinois FOX",
+      "network": "FOX",
+      "trank_line": "Illinois -1.4, 81-79 (55%)",
+      "ttq": "108",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "78 Dayton at 73 George Washington ESPN2",
+      "network": "ESPN2",
+      "trank_line": "George Washington -4.9, 80-75 (67%)",
+      "ttq": "65",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "74 Akron at 159 Kent St. ESPNU",
+      "network": "ESPNU",
+      "trank_line": "Akron -3.9, 87-83 (63%)",
+      "ttq": "65",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "90 Yale at 174 Cornell ESPNU",
+      "network": "ESPNU",
+      "trank_line": "Yale -2.5, 90-87 (58%)",
+      "ttq": "63",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "186 Siena at 255 Fairfield ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Fairfield -0.0, 74-73 (50%)",
+      "ttq": "52",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "172 Appalachian St. at 228 Texas St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Texas St. -0.4, 66-65 (52%)",
+      "ttq": "52",
+      "result": ""
+    },
+    {
+      "time": "12:30 AM",
+      "matchup": "237 Old Dominion at 300 Georgia St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Old Dominion -0.1, 74-73 (50%)",
+      "ttq": "50",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "152 Harvard at 262 Princeton ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Harvard -2.0, 65-63 (59%)",
+      "ttq": "45",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "223 Coastal Carolina at 208 James Madison ESPN+",
+      "network": "ESPN+",
+      "trank_line": "James Madison -4.5, 72-67 (68%)",
+      "ttq": "42",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "75 Miami OH at 281 Western Michigan CBSSN",
+      "network": "CBSSN",
+      "trank_line": "Miami OH -11.6, 89-77 (83%)",
+      "ttq": "41",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "239 Dartmouth at 166 Penn ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Penn -8.3, 80-72 (78%)",
+      "ttq": "40",
+      "result": ""
+    },
+    {
+      "time": "02:00 AM",
+      "matchup": "267 Georgia Southern at 193 Marshall ESPN2",
+      "network": "ESPN2",
+      "trank_line": "Marshall -9.4, 90-80 (78%)",
+      "ttq": "38",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "286 Mount St. Mary's at 288 Sacred Heart ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Sacred Heart -3.8, 77-73 (64%)",
+      "ttq": "38",
+      "result": ""
+    },
+    {
+      "time": "01:30 AM",
+      "matchup": "242 Southern Miss at 178 South Alabama ESPN+",
+      "network": "ESPN+",
+      "trank_line": "South Alabama -7.2, 73-66 (77%)",
+      "ttq": "37",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "275 Brown at 199 Columbia ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Columbia -7.9, 72-64 (79%)",
+      "ttq": "32",
+      "result": ""
+    },
+    {
+      "time": "01:30 AM",
+      "matchup": "277 Louisiana at 151 Arkansas St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Arkansas St. -11.7, 79-67 (85%)",
+      "ttq": "31",
+      "result": ""
+    },
+    {
+      "time": "11:30 PM",
+      "matchup": "206 Quinnipiac at 339 Niagara ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Quinnipiac -5.7, 70-64 (73%)",
+      "ttq": "30",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "332 Manhattan at 241 Saint Peter's ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Saint Peter's -10.8, 80-69 (84%)",
+      "ttq": "21",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "149 Merrimack at 348 Canisius ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Merrimack -8.8, 66-58 (84%)",
+      "ttq": "21",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "349 Louisiana Monroe at 148 Troy ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Troy -21.6, 88-67 (95%)",
+      "ttq": "18",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "357 Rider at 247 Iona ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Iona -15.4, 80-64 (92%)",
+      "ttq": "11",
+      "result": ""
+    }
+  ]
 }
