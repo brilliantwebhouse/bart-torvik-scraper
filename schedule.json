@@ -1,173 +1,1149 @@
 {
-  "scraped_at": "2026-02-27T13:56:17.417412",
-  "total_games": 21,
+  "scraped_at": "2026-02-28T13:33:05.722670",
+  "total_games": 143,
   "data": [
     {
-      "time": "01:00 AM",
-      "matchup": "1 Michigan at 5 Illinois FOX",
-      "network": "FOX",
-      "trank_line": "Illinois -1.4, 81-79 (55%)",
-      "ttq": "108",
+      "time": "03:30 AM",
+      "matchup": "14 Gonzaga at 24 Saint Mary's ESPN",
+      "network": "ESPN",
+      "trank_line": "Saint Mary's -0.1, 73-72 (50%)",
+      "ttq": "93",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "78 Dayton at 73 George Washington ESPN2",
+      "time": "07:00 PM",
+      "matchup": "18 Louisville at 33 Clemson ESPN2",
       "network": "ESPN2",
-      "trank_line": "George Washington -4.9, 80-75 (67%)",
-      "ttq": "65",
-      "result": ""
-    },
-    {
-      "time": "01:00 AM",
-      "matchup": "74 Akron at 159 Kent St. ESPNU",
-      "network": "ESPNU",
-      "trank_line": "Akron -3.9, 87-83 (63%)",
-      "ttq": "65",
+      "trank_line": "Louisville -0.6, 73-72 (52%)",
+      "ttq": "90",
       "result": ""
     },
     {
       "time": "11:00 PM",
-      "matchup": "90 Yale at 174 Cornell ESPNU",
-      "network": "ESPNU",
-      "trank_line": "Yale -2.5, 90-87 (58%)",
+      "matchup": "19 Alabama at 17 Tennessee ESPN",
+      "network": "ESPN",
+      "trank_line": "Tennessee -4.7, 84-80 (66%)",
+      "ttq": "89",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "12 Vanderbilt at 40 Kentucky ESPN",
+      "network": "ESPN",
+      "trank_line": "Vanderbilt -2.1, 79-77 (58%)",
+      "ttq": "89",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "10 Texas Tech at 9 Iowa St. CBS",
+      "network": "CBS",
+      "trank_line": "Iowa St. -5.6, 77-71 (71%)",
+      "ttq": "86",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "27 Wisconsin at 45 Washington FS1",
+      "network": "FS1",
+      "trank_line": "Washington -0.8, 78-77 (53%)",
+      "ttq": "85",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "11 Kansas at 3 Arizona ESPN",
+      "network": "ESPN",
+      "trank_line": "Arizona -8.4, 78-70 (79%)",
+      "ttq": "84",
+      "result": ""
+    },
+    {
+      "time": "01:30 AM",
+      "matchup": "20 Arkansas at 4 Florida ESPN",
+      "network": "ESPN",
+      "trank_line": "Florida -11.0, 89-78 (82%)",
+      "ttq": "83",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "38 San Diego St. at 46 New Mexico CBS",
+      "network": "CBS",
+      "trank_line": "New Mexico -2.0, 74-72 (58%)",
+      "ttq": "81",
+      "result": ""
+    },
+    {
+      "time": "05:00 PM",
+      "matchup": "13 Virginia at 2 Duke ESPN",
+      "network": "ESPN",
+      "trank_line": "Duke -9.3, 74-65 (83%)",
+      "ttq": "79",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "35 SMU at 74 Stanford ACC Network",
+      "network": "ACC Network",
+      "trank_line": "SMU -2.2, 80-78 (58%)",
+      "ttq": "78",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "42 Texas at 34 Texas A&M ESPN2",
+      "network": "ESPN2",
+      "trank_line": "Texas A&M -5.6, 87-81 (68%)",
+      "ttq": "77",
+      "result": ""
+    },
+    {
+      "time": "11:30 PM",
+      "matchup": "57 TCU at 106 Kansas St. ESPN2",
+      "network": "ESPN2",
+      "trank_line": "TCU -0.6, 78-77 (52%)",
+      "ttq": "76",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "39 UCLA at 49 Minnesota FS1",
+      "network": "FS1",
+      "trank_line": "Minnesota -1.0, 67-66 (54%)",
+      "ttq": "76",
+      "result": ""
+    },
+    {
+      "time": "06:00 PM",
+      "matchup": "47 Missouri at 88 Mississippi St. SEC Network",
+      "network": "SEC Network",
+      "trank_line": "Missouri -0.9, 77-76 (53%)",
+      "ttq": "76",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "29 Villanova at 21 St. John's FOX",
+      "network": "FOX",
+      "trank_line": "St. John's -5.6, 75-69 (71%)",
+      "ttq": "75",
+      "result": ""
+    },
+    {
+      "time": "10:30 PM",
+      "matchup": "30 BYU at 73 West Virginia FOX",
+      "network": "FOX",
+      "trank_line": "BYU -1.9, 71-69 (58%)",
+      "ttq": "75",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "16 Nebraska at 58 USC BTN",
+      "network": "BTN",
+      "trank_line": "Nebraska -5.3, 75-69 (70%)",
+      "ttq": "75",
+      "result": ""
+    },
+    {
+      "time": "10:30 PM",
+      "matchup": "61 Providence at 83 Creighton TNT",
+      "network": "TNT",
+      "trank_line": "Creighton -2.1, 86-84 (57%)",
+      "ttq": "74",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "50 Baylor at 48 UCF FS1",
+      "network": "FS1",
+      "trank_line": "UCF -5.5, 85-80 (68%)",
+      "ttq": "71",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "53 Oklahoma at 63 LSU SEC Network",
+      "network": "SEC Network",
+      "trank_line": "LSU -2.9, 80-77 (60%)",
+      "ttq": "71",
+      "result": ""
+    },
+    {
+      "time": "03:00 AM",
+      "matchup": "70 Nevada at 126 UNLV CBSSN",
+      "network": "CBSSN",
+      "trank_line": "Nevada -1.4, 78-77 (55%)",
+      "ttq": "69",
+      "result": ""
+    },
+    {
+      "time": "10:45 PM",
+      "matchup": "69 Syracuse at 72 Wake Forest The CW Network",
+      "network": "The CW Network",
+      "trank_line": "Wake Forest -3.9, 79-75 (64%)",
+      "ttq": "68",
+      "result": ""
+    },
+    {
+      "time": "12:30 AM",
+      "matchup": "60 Boise St. at 122 Fresno St. MWN",
+      "network": "MWN",
+      "trank_line": "Boise St. -1.7, 73-71 (57%)",
+      "ttq": "67",
+      "result": ""
+    },
+    {
+      "time": "02:00 AM",
+      "matchup": "104 Seattle at 145 Loyola Marymount ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Loyola Marymount -0.1, 67-66 (50%)",
+      "ttq": "67",
+      "result": ""
+    },
+    {
+      "time": "05:00 PM",
+      "matchup": "25 N.C. State at 102 Notre Dame The CW Network",
+      "network": "The CW Network",
+      "trank_line": "N.C. State -5.6, 79-73 (70%)",
+      "ttq": "67",
+      "result": ""
+    },
+    {
+      "time": "06:30 PM",
+      "matchup": "84 Georgetown at 93 Xavier TNT",
+      "network": "TNT",
+      "trank_line": "Xavier -3.1, 78-75 (61%)",
+      "ttq": "66",
+      "result": ""
+    },
+    {
+      "time": "03:00 AM",
+      "matchup": "54 Grand Canyon at 28 Utah St. FS1",
+      "network": "FS1",
+      "trank_line": "Utah St. -8.4, 78-69 (79%)",
+      "ttq": "65",
+      "result": ""
+    },
+    {
+      "time": "01:30 AM",
+      "matchup": "52 Virginia Tech at 23 North Carolina ESPN2",
+      "network": "ESPN2",
+      "trank_line": "North Carolina -9.1, 80-70 (80%)",
+      "ttq": "65",
+      "result": ""
+    },
+    {
+      "time": "05:00 PM",
+      "matchup": "107 Saint Joseph's at 147 Rhode Island ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Rhode Island -0.3, 68-67 (51%)",
+      "ttq": "64",
+      "result": ""
+    },
+    {
+      "time": "05:00 PM",
+      "matchup": "71 Florida St. at 172 Georgia Tech ACC Network",
+      "network": "ACC Network",
+      "trank_line": "Florida St. -4.6, 83-79 (66%)",
       "ttq": "63",
       "result": ""
     },
     {
       "time": "12:00 AM",
-      "matchup": "186 Siena at 255 Fairfield ESPN+",
+      "matchup": "130 Wright St. at 192 Northern Kentucky ESPN+",
       "network": "ESPN+",
-      "trank_line": "Fairfield -0.0, 74-73 (50%)",
-      "ttq": "52",
-      "result": ""
-    },
-    {
-      "time": "01:00 AM",
-      "matchup": "172 Appalachian St. at 228 Texas St. ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Texas St. -0.4, 66-65 (52%)",
-      "ttq": "52",
-      "result": ""
-    },
-    {
-      "time": "12:30 AM",
-      "matchup": "237 Old Dominion at 300 Georgia St. ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Old Dominion -0.1, 74-73 (50%)",
-      "ttq": "50",
+      "trank_line": "Northern Kentucky -0.0, 76-75 (50%)",
+      "ttq": "63",
       "result": ""
     },
     {
       "time": "12:00 AM",
-      "matchup": "152 Harvard at 262 Princeton ESPN+",
+      "matchup": "111 Hawaii at 207 Cal St. Fullerton ESPN+",
       "network": "ESPN+",
-      "trank_line": "Harvard -2.0, 65-63 (59%)",
+      "trank_line": "Hawaii -2.6, 79-77 (59%)",
+      "ttq": "61",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "82 Oklahoma St. at 37 Cincinnati CBSSN",
+      "network": "CBSSN",
+      "trank_line": "Cincinnati -10.4, 82-71 (83%)",
+      "ttq": "61",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "150 Toledo at 215 Ohio ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Ohio -0.4, 81-80 (52%)",
+      "ttq": "59",
+      "result": ""
+    },
+    {
+      "time": "08:30 PM",
+      "matchup": "97 Utah at 67 Arizona St. TNT",
+      "network": "TNT",
+      "trank_line": "Arizona St. -7.1, 81-74 (74%)",
+      "ttq": "59",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "77 McNeese St. at 181 New Orleans ESPN+",
+      "network": "ESPN+",
+      "trank_line": "McNeese St. -3.9, 78-74 (64%)",
+      "ttq": "58",
+      "result": ""
+    },
+    {
+      "time": "08:30 PM",
+      "matchup": "100 South Carolina at 44 Georgia SEC Network",
+      "network": "SEC Network",
+      "trank_line": "Georgia -12.0, 87-75 (85%)",
+      "ttq": "58",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "90 Oregon at 62 Northwestern BTN",
+      "network": "BTN",
+      "trank_line": "Northwestern -6.1, 74-67 (73%)",
+      "ttq": "57",
+      "result": ""
+    },
+    {
+      "time": "05:00 PM",
+      "matchup": "65 Seton Hall at 8 Connecticut FS1",
+      "network": "FS1",
+      "trank_line": "Connecticut -14.0, 70-56 (93%)",
+      "ttq": "57",
+      "result": ""
+    },
+    {
+      "time": "01:30 AM",
+      "matchup": "87 Mississippi at 41 Auburn SEC Network",
+      "network": "SEC Network",
+      "trank_line": "Auburn -10.2, 81-71 (82%)",
+      "ttq": "57",
+      "result": ""
+    },
+    {
+      "time": "05:00 PM",
+      "matchup": "80 Colorado at 5 Houston ESPN2",
+      "network": "ESPN2",
+      "trank_line": "Houston -19.1, 81-62 (96%)",
+      "ttq": "57",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "96 Yale at 195 Columbia ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Yale -2.9, 77-74 (61%)",
+      "ttq": "55",
+      "result": ""
+    },
+    {
+      "time": "09:30 PM",
+      "matchup": "164 East Tennessee St. at 203 Mercer ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Mercer -1.7, 77-76 (56%)",
+      "ttq": "55",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "120 Duquesne at 26 Saint Louis ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Saint Louis -16.9, 90-73 (91%)",
+      "ttq": "55",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "144 Northern Colorado at 160 Idaho ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Idaho -3.1, 77-74 (62%)",
+      "ttq": "55",
+      "result": ""
+    },
+    {
+      "time": "05:00 PM",
+      "matchup": "22 Iowa at 132 Penn St. BTN",
+      "network": "BTN",
+      "trank_line": "Iowa -9.2, 78-69 (81%)",
+      "ttq": "55",
+      "result": ""
+    },
+    {
+      "time": "03:30 AM",
+      "matchup": "119 UC Santa Barbara at 113 UC Irvine ESPN2",
+      "network": "ESPN2",
+      "trank_line": "UC Irvine -4.1, 70-66 (67%)",
+      "ttq": "54",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "109 Liberty at 196 Jacksonville St. ESPNU",
+      "network": "ESPNU",
+      "trank_line": "Liberty -1.9, 70-69 (58%)",
+      "ttq": "54",
+      "result": ""
+    },
+    {
+      "time": "01:30 AM",
+      "matchup": "178 Utah Tech at 261 Southern Utah ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Utah Tech -1.0, 78-77 (54%)",
+      "ttq": "53",
+      "result": ""
+    },
+    {
+      "time": "08:00 PM",
+      "matchup": "189 FIU at 240 Louisiana Tech ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Louisiana Tech -1.0, 70-69 (54%)",
+      "ttq": "53",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "155 Portland St. at 169 Montana ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Montana -3.3, 71-68 (63%)",
+      "ttq": "53",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "141 Cal St. Northridge at 269 UC Riverside ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Cal St. Northridge -3.3, 80-77 (62%)",
+      "ttq": "53",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "188 Weber St. at 252 Idaho St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Idaho St. -0.4, 78-77 (52%)",
+      "ttq": "52",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "217 South Dakota St. at 274 South Dakota Summit League Network",
+      "network": "Summit League Network",
+      "trank_line": "South Dakota -0.4, 78-77 (51%)",
+      "ttq": "52",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "222 Lipscomb at 282 Eastern Kentucky ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Lipscomb -0.2, 80-79 (51%)",
+      "ttq": "52",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "176 Massachusetts at 157 Bowling Green ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Bowling Green -4.7, 79-74 (67%)",
+      "ttq": "52",
+      "result": ""
+    },
+    {
+      "time": "10:30 PM",
+      "matchup": "190 Furman at 230 Western Carolina ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Western Carolina -1.4, 74-73 (56%)",
+      "ttq": "51",
+      "result": ""
+    },
+    {
+      "time": "08:30 PM",
+      "matchup": "216 Bethune Cookman at 253 Southern",
+      "network": "",
+      "trank_line": "Southern -2.0, 77-75 (57%)",
+      "ttq": "51",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "114 Pittsburgh at 56 California ACC Network",
+      "network": "ACC Network",
+      "trank_line": "California -8.7, 74-65 (81%)",
+      "ttq": "50",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "156 Harvard at 170 Penn ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Penn -3.2, 69-66 (63%)",
+      "ttq": "50",
+      "result": ""
+    },
+    {
+      "time": "08:00 PM",
+      "matchup": "238 Radford at 271 Longwood ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Longwood -1.9, 78-76 (57%)",
+      "ttq": "49",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "131 San Francisco at 101 Pacific CBSSN",
+      "network": "CBSSN",
+      "trank_line": "Pacific -6.3, 72-66 (74%)",
+      "ttq": "48",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "133 Boston College at 43 Miami FL ACC Network",
+      "network": "ACC Network",
+      "trank_line": "Miami FL -14.3, 77-63 (90%)",
+      "ttq": "47",
+      "result": ""
+    },
+    {
+      "time": "10:00 PM",
+      "matchup": "224 Lamar at 284 Incarnate Word ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Incarnate Word -0.0, 71-70 (50%)",
+      "ttq": "47",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "179 Youngstown St. at 182 Green Bay ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Green Bay -3.4, 73-69 (63%)",
+      "ttq": "47",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "262 Purdue Fort Wayne at 280 IU Indy ESPN+",
+      "network": "ESPN+",
+      "trank_line": "IU Indy -2.7, 85-82 (59%)",
+      "ttq": "47",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "167 St. Bonaventure at 137 George Mason ESPN+",
+      "network": "ESPN+",
+      "trank_line": "George Mason -5.2, 76-71 (69%)",
+      "ttq": "47",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "138 William & Mary at 290 North Carolina A&T FloSports",
+      "network": "FloSports",
+      "trank_line": "William & Mary -5.5, 85-80 (68%)",
+      "ttq": "47",
+      "result": ""
+    },
+    {
+      "time": "10:00 PM",
+      "matchup": "91 Colorado St. at 220 San Jose St. MWN",
+      "network": "MWN",
+      "trank_line": "Colorado St. -4.6, 74-69 (68%)",
+      "ttq": "47",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "200 Campbell at 201 Towson MNMT",
+      "network": "MNMT",
+      "trank_line": "Towson -3.5, 71-68 (64%)",
+      "ttq": "47",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "116 Washington St. at 270 Pepperdine ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Washington St. -5.7, 80-75 (70%)",
+      "ttq": "46",
+      "result": ""
+    },
+    {
+      "time": "08:00 PM",
+      "matchup": "212 Detroit Mercy at 168 Oakland ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Oakland -7.4, 87-79 (74%)",
+      "ttq": "45",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "218 San Diego at 197 Portland ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Portland -5.3, 79-73 (69%)",
       "ttq": "45",
       "result": ""
     },
     {
       "time": "01:00 AM",
-      "matchup": "223 Coastal Carolina at 208 James Madison ESPN+",
+      "matchup": "174 Oregon St. at 32 Santa Clara CBSSN",
+      "network": "CBSSN",
+      "trank_line": "Santa Clara -20.1, 87-67 (94%)",
+      "ttq": "45",
+      "result": ""
+    },
+    {
+      "time": "06:00 PM",
+      "matchup": "227 UMBC at 315 UMass Lowell ESPN+",
       "network": "ESPN+",
-      "trank_line": "James Madison -4.5, 72-67 (68%)",
-      "ttq": "42",
+      "trank_line": "UMBC -1.6, 74-73 (56%)",
+      "ttq": "45",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "206 Queens at 151 Central Arkansas ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Central Arkansas -7.3, 85-78 (74%)",
+      "ttq": "45",
+      "result": ""
+    },
+    {
+      "time": "03:00 AM",
+      "matchup": "219 Cal Poly at 127 UC San Diego ESPN+",
+      "network": "ESPN+",
+      "trank_line": "UC San Diego -10.7, 86-75 (81%)",
+      "ttq": "44",
       "result": ""
     },
     {
       "time": "11:00 PM",
-      "matchup": "75 Miami OH at 281 Western Michigan CBSSN",
-      "network": "CBSSN",
-      "trank_line": "Miami OH -11.6, 89-77 (83%)",
-      "ttq": "41",
+      "matchup": "239 Dartmouth at 258 Princeton ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Princeton -2.6, 73-70 (60%)",
+      "ttq": "43",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "239 Dartmouth at 166 Penn ESPN+",
+      "time": "06:00 PM",
+      "matchup": "191 New Mexico St. at 143 Middle Tennessee ESPN+",
       "network": "ESPN+",
-      "trank_line": "Penn -8.3, 80-72 (78%)",
-      "ttq": "40",
+      "trank_line": "Middle Tennessee -6.1, 75-69 (73%)",
+      "ttq": "43",
+      "result": ""
+    },
+    {
+      "time": "05:30 PM",
+      "matchup": "171 Fordham at 51 VCU USA Net",
+      "network": "USA Net",
+      "trank_line": "VCU -14.0, 77-63 (89%)",
+      "ttq": "43",
+      "result": ""
+    },
+    {
+      "time": "02:30 AM",
+      "matchup": "256 Long Beach St. at 325 Cal St. Bakersfield ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Long Beach St. -1.7, 77-75 (56%)",
+      "ttq": "43",
+      "result": ""
+    },
+    {
+      "time": "10:30 PM",
+      "matchup": "194 Missouri St. at 95 Sam Houston St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Sam Houston St. -11.6, 82-71 (84%)",
+      "ttq": "42",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "249 Florida Gulf Coast at 321 Stetson ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Florida Gulf Coast -1.6, 77-75 (56%)",
+      "ttq": "42",
       "result": ""
     },
     {
       "time": "02:00 AM",
-      "matchup": "267 Georgia Southern at 193 Marshall ESPN2",
-      "network": "ESPN2",
-      "trank_line": "Marshall -9.4, 90-80 (78%)",
+      "matchup": "204 Tarleton St. at 117 Cal Baptist ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Cal Baptist -8.9, 72-64 (81%)",
+      "ttq": "41",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "154 Richmond at 305 Loyola Chicago CBSSN",
+      "network": "CBSSN",
+      "trank_line": "Richmond -4.6, 76-72 (67%)",
+      "ttq": "41",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "264 Charleston Southern at 255 UNC Asheville ESPN+",
+      "network": "ESPN+",
+      "trank_line": "UNC Asheville -4.4, 75-71 (67%)",
+      "ttq": "40",
+      "result": ""
+    },
+    {
+      "time": "06:00 PM",
+      "matchup": "295 Le Moyne at 331 New Haven NEC Front Row",
+      "network": "NEC Front Row",
+      "trank_line": "New Haven -0.5, 67-66 (52%)",
+      "ttq": "40",
+      "result": ""
+    },
+    {
+      "time": "08:00 PM",
+      "matchup": "234 Elon at 193 Monmouth FloSports",
+      "network": "FloSports",
+      "trank_line": "Monmouth -6.4, 78-72 (73%)",
+      "ttq": "39",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "259 Tennessee St. at 229 Tennessee Martin ESPNU",
+      "network": "ESPNU",
+      "trank_line": "Tennessee Martin -5.2, 74-69 (70%)",
       "ttq": "38",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "286 Mount St. Mary's at 288 Sacred Heart ESPN+",
+      "time": "07:00 PM",
+      "matchup": "247 Central Michigan at 210 Buffalo ESPN+",
       "network": "ESPN+",
-      "trank_line": "Sacred Heart -3.8, 77-73 (64%)",
+      "trank_line": "Buffalo -6.1, 79-73 (72%)",
       "ttq": "38",
       "result": ""
     },
     {
-      "time": "01:30 AM",
-      "matchup": "242 Southern Miss at 178 South Alabama ESPN+",
-      "network": "ESPN+",
-      "trank_line": "South Alabama -7.2, 73-66 (77%)",
+      "time": "09:00 PM",
+      "matchup": "285 Northeastern at 299 Hampton MNMT",
+      "network": "MNMT",
+      "trank_line": "Hampton -3.0, 75-72 (62%)",
+      "ttq": "38",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "237 Nebraska Omaha at 110 St. Thomas Summit League Network",
+      "network": "Summit League Network",
+      "trank_line": "St. Thomas -13.8, 86-72 (86%)",
       "ttq": "37",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "275 Brown at 199 Columbia ESPN+",
+      "time": "09:00 PM",
+      "matchup": "146 Valparaiso at 314 Evansville ESPN+",
       "network": "ESPN+",
-      "trank_line": "Columbia -7.9, 72-64 (79%)",
-      "ttq": "32",
+      "trank_line": "Valparaiso -5.3, 71-66 (71%)",
+      "ttq": "37",
       "result": ""
     },
     {
-      "time": "01:30 AM",
-      "matchup": "277 Louisiana at 151 Arkansas St. ESPN+",
+      "time": "07:00 PM",
+      "matchup": "136 Austin Peay at 311 Bellarmine ESPN+",
       "network": "ESPN+",
-      "trank_line": "Arkansas St. -11.7, 79-67 (85%)",
+      "trank_line": "Austin Peay -6.4, 82-75 (72%)",
+      "ttq": "37",
+      "result": ""
+    },
+    {
+      "time": "05:00 PM",
+      "matchup": "254 Boston University at 241 American CBSSN",
+      "network": "CBSSN",
+      "trank_line": "American -4.6, 75-70 (67%)",
+      "ttq": "36",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "221 Stony Brook at 99 Hofstra MSG2",
+      "network": "MSG2",
+      "trank_line": "Hofstra -12.2, 76-64 (86%)",
+      "ttq": "36",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "248 Abilene Christian at 81 Utah Valley ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Utah Valley -16.1, 79-62 (91%)",
+      "ttq": "36",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "302 Jacksonville at 317 North Florida ESPN+",
+      "network": "ESPN+",
+      "trank_line": "North Florida -2.5, 77-75 (59%)",
+      "ttq": "36",
+      "result": ""
+    },
+    {
+      "time": "08:00 PM",
+      "matchup": "267 Sacramento St. at 135 Montana St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Montana St. -12.9, 86-73 (85%)",
+      "ttq": "35",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "279 Mercyhurst at 344 Stonehill NEC Front Row",
+      "network": "NEC Front Row",
+      "trank_line": "Mercyhurst -1.5, 63-61 (57%)",
+      "ttq": "35",
+      "result": ""
+    },
+    {
+      "time": "10:00 PM",
+      "matchup": "307 Florida A&M at 286 Grambling St.",
+      "network": "",
+      "trank_line": "Grambling St. -4.4, 69-65 (68%)",
+      "ttq": "34",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "277 Brown at 163 Cornell ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Cornell -12.0, 85-73 (84%)",
+      "ttq": "34",
+      "result": ""
+    },
+    {
+      "time": "10:00 PM",
+      "matchup": "257 Delaware at 161 Kennesaw St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Kennesaw St. -9.5, 79-69 (81%)",
+      "ttq": "34",
+      "result": ""
+    },
+    {
+      "time": "10:00 PM",
+      "matchup": "310 Alabama St. at 306 Alabama A&M",
+      "network": "",
+      "trank_line": "Alabama A&M -3.9, 73-69 (65%)",
+      "ttq": "34",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "246 Colgate at 139 Navy ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Navy -9.5, 74-64 (82%)",
+      "ttq": "34",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "316 Ball St. at 324 Northern Illinois ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Northern Illinois -2.0, 64-62 (59%)",
+      "ttq": "33",
+      "result": ""
+    },
+    {
+      "time": "08:00 PM",
+      "matchup": "268 UTEP at 152 Western Kentucky ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Western Kentucky -10.1, 75-65 (83%)",
+      "ttq": "33",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "318 Oral Roberts at 354 UMKC Summit League Network",
+      "network": "Summit League Network",
+      "trank_line": "Oral Roberts -1.9, 73-71 (58%)",
+      "ttq": "33",
+      "result": ""
+    },
+    {
+      "time": "09:30 PM",
+      "matchup": "79 Stephen F. Austin at 313 Houston Christian ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Stephen F. Austin -10.5, 73-62 (86%)",
       "ttq": "31",
       "result": ""
     },
     {
-      "time": "11:30 PM",
-      "matchup": "206 Quinnipiac at 339 Niagara ESPN+",
+      "time": "11:00 PM",
+      "matchup": "292 UNC Greensboro at 242 Samford ESPN+",
       "network": "ESPN+",
-      "trank_line": "Quinnipiac -5.7, 70-64 (73%)",
+      "trank_line": "Samford -7.7, 82-74 (76%)",
+      "ttq": "31",
+      "result": ""
+    },
+    {
+      "time": "10:00 PM",
+      "matchup": "273 North Dakota at 125 North Dakota St. Summit League Network",
+      "network": "Summit League Network",
+      "trank_line": "North Dakota St. -14.3, 83-69 (88%)",
+      "ttq": "31",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "298 Southeastern Louisiana at 245 Nicholls St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Nicholls St. -6.9, 73-66 (76%)",
+      "ttq": "31",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "281 Presbyterian at 166 Winthrop ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Winthrop -11.4, 79-67 (85%)",
       "ttq": "30",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "332 Manhattan at 241 Saint Peter's ESPN+",
+      "time": "10:30 PM",
+      "matchup": "296 East Texas A&M at 121 UT Rio Grande Valley ESPN+",
       "network": "ESPN+",
-      "trank_line": "Saint Peter's -10.8, 80-69 (84%)",
+      "trank_line": "UT Rio Grande Valley -16.1, 80-64 (91%)",
+      "ttq": "29",
+      "result": ""
+    },
+    {
+      "time": "10:30 PM",
+      "matchup": "339 Alcorn St. at 320 Prairie View A&M",
+      "network": "",
+      "trank_line": "Prairie View A&M -6.4, 82-76 (72%)",
+      "ttq": "28",
+      "result": ""
+    },
+    {
+      "time": "11:30 PM",
+      "matchup": "293 Northwestern St. at 186 Texas A&M Corpus Chris ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Texas A&M Corpus Chris -9.5, 70-61 (83%)",
+      "ttq": "27",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "348 Maine at 359 Binghamton ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Binghamton -0.3, 65-64 (51%)",
+      "ttq": "27",
+      "result": ""
+    },
+    {
+      "time": "05:00 PM",
+      "matchup": "332 Loyola MD at 330 Holy Cross ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Holy Cross -4.1, 76-72 (66%)",
+      "ttq": "27",
+      "result": ""
+    },
+    {
+      "time": "10:00 PM",
+      "matchup": "333 Jackson St. at 308 Texas Southern",
+      "network": "",
+      "trank_line": "Texas Southern -7.3, 82-75 (75%)",
+      "ttq": "27",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "205 Howard at 353 Morgan St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Howard -9.3, 81-72 (80%)",
+      "ttq": "27",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "291 Northern Arizona at 158 Eastern Washington ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Eastern Washington -12.8, 81-69 (86%)",
+      "ttq": "27",
+      "result": ""
+    },
+    {
+      "time": "06:00 PM",
+      "matchup": "312 Cleveland St. at 159 Robert Morris ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Robert Morris -14.6, 87-73 (88%)",
+      "ttq": "26",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "338 Southern Indiana at 329 Little Rock ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Little Rock -4.8, 72-67 (69%)",
+      "ttq": "25",
+      "result": ""
+    },
+    {
+      "time": "09:45 PM",
+      "matchup": "328 Tennessee Tech at 251 Southeast Missouri St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Southeast Missouri St. -9.6, 77-67 (82%)",
+      "ttq": "25",
+      "result": ""
+    },
+    {
+      "time": "09:30 PM",
+      "matchup": "352 North Carolina Central at 362 Delaware St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "North Carolina Central -0.7, 68-67 (53%)",
+      "ttq": "24",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "334 Bucknell at 294 Lehigh ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Lehigh -7.1, 73-66 (76%)",
+      "ttq": "24",
+      "result": ""
+    },
+    {
+      "time": "09:00 PM",
+      "matchup": "303 NJIT at 358 Bryant ESPN+",
+      "network": "ESPN+",
+      "trank_line": "NJIT -4.3, 71-66 (67%)",
+      "ttq": "23",
+      "result": ""
+    },
+    {
+      "time": "06:00 PM",
+      "matchup": "343 Army at 323 Lafayette ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Lafayette -5.8, 75-69 (72%)",
+      "ttq": "23",
+      "result": ""
+    },
+    {
+      "time": "09:30 PM",
+      "matchup": "327 Eastern Illinois at 266 SIU Edwardsville ESPN+",
+      "network": "ESPN+",
+      "trank_line": "SIU Edwardsville -7.3, 64-57 (80%)",
+      "ttq": "22",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "345 New Hampshire at 322 Albany ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Albany -5.8, 72-66 (72%)",
+      "ttq": "22",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "341 North Alabama at 309 West Georgia ESPN+",
+      "network": "ESPN+",
+      "trank_line": "West Georgia -7.7, 77-69 (77%)",
       "ttq": "21",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "149 Merrimack at 348 Canisius ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Merrimack -8.8, 66-58 (84%)",
+      "time": "06:00 PM",
+      "matchup": "342 Chicago St. at 319 Wagner NEC Front Row",
+      "network": "NEC Front Row",
+      "trank_line": "Wagner -5.8, 72-67 (72%)",
       "ttq": "21",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "349 Louisiana Monroe at 148 Troy ESPN+",
+      "time": "09:00 PM",
+      "matchup": "346 Air Force at 103 Wyoming MWN",
+      "network": "MWN",
+      "trank_line": "Wyoming -23.0, 82-59 (96%)",
+      "ttq": "21",
+      "result": ""
+    },
+    {
+      "time": "06:00 PM",
+      "matchup": "336 Fairleigh Dickinson at 233 LIU NEC Front Row",
+      "network": "NEC Front Row",
+      "trank_line": "LIU -10.9, 75-64 (86%)",
+      "ttq": "20",
+      "result": ""
+    },
+    {
+      "time": "09:30 PM",
+      "matchup": "326 Norfolk St. at 363 Coppin St. ESPN+",
       "network": "ESPN+",
-      "trank_line": "Troy -21.6, 88-67 (95%)",
+      "trank_line": "Norfolk St. -5.1, 75-70 (69%)",
+      "ttq": "19",
+      "result": ""
+    },
+    {
+      "time": "09:30 PM",
+      "matchup": "356 South Carolina St. at 355 Maryland Eastern Shore DSN",
+      "network": "DSN",
+      "trank_line": "Maryland Eastern Shore -3.6, 67-64 (65%)",
       "ttq": "18",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "357 Rider at 247 Iona ESPN+",
+      "time": "09:30 PM",
+      "matchup": "276 Lindenwood at 364 Western Illinois ESPN+",
       "network": "ESPN+",
-      "trank_line": "Iona -15.4, 80-64 (92%)",
-      "ttq": "11",
+      "trank_line": "Lindenwood -9.7, 78-69 (82%)",
+      "ttq": "16",
+      "result": ""
+    },
+    {
+      "time": "06:00 PM",
+      "matchup": "350 Saint Francis at 300 Central Connecticut NEC Front Row",
+      "network": "NEC Front Row",
+      "trank_line": "Central Connecticut -10.8, 83-72 (83%)",
+      "ttq": "16",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "351 The Citadel at 250 Wofford ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Wofford -13.9, 80-66 (90%)",
+      "ttq": "13",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "360 VMI at 301 Chattanooga ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Chattanooga -12.8, 81-68 (88%)",
+      "ttq": "9",
+      "result": ""
+    },
+    {
+      "time": "07:00 PM",
+      "matchup": "361 Gardner Webb at 297 USC Upstate ESPN+",
+      "network": "ESPN+",
+      "trank_line": "USC Upstate -14.6, 82-68 (91%)",
+      "ttq": "9",
+      "result": ""
+    },
+    {
+      "time": "11:30 PM",
+      "matchup": "365 Mississippi Valley St. at 289 Arkansas Pine Bluff",
+      "network": "",
+      "trank_line": "Arkansas Pine Bluff -18.3, 83-65 (95%)",
+      "ttq": "4",
       "result": ""
     }
   ]
