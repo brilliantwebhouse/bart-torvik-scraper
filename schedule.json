@@ -1,5 +1,86 @@
 {
-  "scraped_at": "2026-03-16T14:19:20.747348",
-  "total_games": 0,
-  "data": []
+  "scraped_at": "2026-03-17T14:17:20.757635",
+  "total_games": 10,
+  "data": [
+    {
+      "time": "01:15 AM",
+      "matchup": "38 N.C. State vs 45 Texas NCAA-T truTV",
+      "network": "truTV",
+      "trank_line": "N.C. State -1.4, 83-82 (55%)",
+      "ttq": "84",
+      "result": ""
+    },
+    {
+      "time": "03:00 AM",
+      "matchup": "109 UNLV at 108 UC Irvine ESPNU",
+      "network": "ESPNU",
+      "trank_line": "UC Irvine -3.9, 78-74 (65%)",
+      "ttq": "61",
+      "result": ""
+    },
+    {
+      "time": "01:00 AM",
+      "matchup": "89 Stephen F. Austin at 65 Tulsa ESPNU",
+      "network": "ESPNU",
+      "trank_line": "Tulsa -6.4, 80-74 (73%)",
+      "ttq": "59",
+      "result": ""
+    },
+    {
+      "time": "02:00 AM",
+      "matchup": "110 St. Thomas at 104 Seattle ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Seattle -4.1, 74-70 (66%)",
+      "ttq": "59",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "95 Wyoming at 84 Wichita St. ESPNU",
+      "network": "ESPNU",
+      "trank_line": "Wichita St. -4.9, 75-70 (69%)",
+      "ttq": "58",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "105 Davidson at 75 Oklahoma St. ESPN2",
+      "network": "ESPN2",
+      "trank_line": "Oklahoma St. -6.9, 81-74 (74%)",
+      "ttq": "57",
+      "result": ""
+    },
+    {
+      "time": "10:40 PM",
+      "matchup": "205 Howard vs 184 UMBC NCAA-T truTV",
+      "network": "truTV",
+      "trank_line": "UMBC -0.8, 71-70 (53%)",
+      "ttq": "56",
+      "result": ""
+    },
+    {
+      "time": "10:00 PM",
+      "matchup": "120 Liberty at 118 George Mason ESPN2",
+      "network": "ESPN2",
+      "trank_line": "George Mason -4.0, 73-69 (66%)",
+      "ttq": "51",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "125 UNC Wilmington at 92 Yale ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Yale -6.4, 76-70 (74%)",
+      "ttq": "50",
+      "result": ""
+    },
+    {
+      "time": "02:00 AM",
+      "matchup": "196 South Alabama at 41 Auburn ESPN2",
+      "network": "ESPN2",
+      "trank_line": "Auburn -19.0, 85-67 (93%)",
+      "ttq": "41",
+      "result": ""
+    }
+  ]
 }
