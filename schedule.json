@@ -1,85 +1,85 @@
 {
-  "scraped_at": "2026-03-17T14:17:20.757635",
+  "scraped_at": "2026-03-18T14:20:08.720783",
   "total_games": 10,
   "data": [
     {
-      "time": "01:15 AM",
-      "matchup": "38 N.C. State vs 45 Texas NCAA-T truTV",
-      "network": "truTV",
-      "trank_line": "N.C. State -1.4, 83-82 (55%)",
-      "ttq": "84",
+      "time": "12:00 AM",
+      "matchup": "83 George Washington at 88 Utah Valley ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Utah Valley -3.2, 82-79 (61%)",
+      "ttq": "68",
       "result": ""
     },
     {
-      "time": "03:00 AM",
-      "matchup": "109 UNLV at 108 UC Irvine ESPNU",
-      "network": "ESPNU",
-      "trank_line": "UC Irvine -3.9, 78-74 (65%)",
-      "ttq": "61",
+      "time": "01:15 AM",
+      "matchup": "87 Miami OH vs 41 SMU NCAA-T truTV",
+      "network": "truTV",
+      "trank_line": "SMU -6.4, 86-80 (71%)",
+      "ttq": "68",
       "result": ""
     },
     {
       "time": "01:00 AM",
-      "matchup": "89 Stephen F. Austin at 65 Tulsa ESPNU",
+      "matchup": "81 Dayton at 134 Bradley ESPNU",
       "network": "ESPNU",
-      "trank_line": "Tulsa -6.4, 80-74 (73%)",
-      "ttq": "59",
+      "trank_line": "Dayton -1.1, 73-72 (55%)",
+      "ttq": "66",
       "result": ""
     },
     {
-      "time": "02:00 AM",
-      "matchup": "110 St. Thomas at 104 Seattle ESPN+",
+      "time": "01:00 AM",
+      "matchup": "106 Sam Houston St. at 53 New Mexico ESPN+",
       "network": "ESPN+",
-      "trank_line": "Seattle -4.1, 74-70 (66%)",
-      "ttq": "59",
-      "result": ""
-    },
-    {
-      "time": "11:00 PM",
-      "matchup": "95 Wyoming at 84 Wichita St. ESPNU",
-      "network": "ESPNU",
-      "trank_line": "Wichita St. -4.9, 75-70 (69%)",
+      "trank_line": "New Mexico -9.8, 87-77 (80%)",
       "ttq": "58",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "105 Davidson at 75 Oklahoma St. ESPN2",
-      "network": "ESPN2",
-      "trank_line": "Oklahoma St. -6.9, 81-74 (74%)",
+      "time": "03:00 AM",
+      "matchup": "99 Saint Joseph's at 86 Colorado St. ESPNU",
+      "network": "ESPNU",
+      "trank_line": "Colorado St. -4.6, 74-69 (68%)",
       "ttq": "57",
       "result": ""
     },
     {
-      "time": "10:40 PM",
-      "matchup": "205 Howard vs 184 UMBC NCAA-T truTV",
-      "network": "truTV",
-      "trank_line": "UMBC -0.8, 71-70 (53%)",
-      "ttq": "56",
-      "result": ""
-    },
-    {
-      "time": "10:00 PM",
-      "matchup": "120 Liberty at 118 George Mason ESPN2",
+      "time": "03:00 AM",
+      "matchup": "111 Illinois Chicago at 69 California ESPN2",
       "network": "ESPN2",
-      "trank_line": "George Mason -4.0, 73-69 (66%)",
-      "ttq": "51",
-      "result": ""
-    },
-    {
-      "time": "11:00 PM",
-      "matchup": "125 UNC Wilmington at 92 Yale ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Yale -6.4, 76-70 (74%)",
-      "ttq": "50",
+      "trank_line": "California -7.5, 76-69 (77%)",
+      "ttq": "54",
       "result": ""
     },
     {
       "time": "02:00 AM",
-      "matchup": "196 South Alabama at 41 Auburn ESPN2",
-      "network": "ESPN2",
-      "trank_line": "Auburn -19.0, 85-67 (93%)",
-      "ttq": "41",
+      "matchup": "135 Murray St. at 77 Nevada ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Nevada -10.1, 87-77 (81%)",
+      "ttq": "51",
+      "result": ""
+    },
+    {
+      "time": "12:00 AM",
+      "matchup": "156 Kent St. at 110 Illinois St. ESPN+",
+      "network": "ESPN+",
+      "trank_line": "Illinois St. -7.6, 81-74 (76%)",
+      "ttq": "49",
+      "result": ""
+    },
+    {
+      "time": "10:40 PM",
+      "matchup": "284 Lehigh vs 281 Prairie View A&M NCAA-T truTV",
+      "network": "truTV",
+      "trank_line": "Prairie View A&M -0.2, 75-74 (51%)",
+      "ttq": "49",
+      "result": ""
+    },
+    {
+      "time": "11:00 PM",
+      "matchup": "151 Navy at 66 Wake Forest ESPNU",
+      "network": "ESPNU",
+      "trank_line": "Wake Forest -11.6, 80-68 (85%)",
+      "ttq": "45",
       "result": ""
     }
   ]
