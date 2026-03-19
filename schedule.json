@@ -1,85 +1,133 @@
 {
-  "scraped_at": "2026-03-18T14:20:08.720783",
-  "total_games": 10,
+  "scraped_at": "2026-03-19T14:05:37.731032",
+  "total_games": 16,
   "data": [
     {
-      "time": "12:00 AM",
-      "matchup": "83 George Washington at 88 Utah Valley ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Utah Valley -3.2, 82-79 (61%)",
-      "ttq": "68",
+      "time": "01:45 AM",
+      "matchup": "37 Georgia vs 41 Saint Louis NCAA-T CBS",
+      "network": "CBS",
+      "trank_line": "Georgia -1.2, 88-87 (54%)",
+      "ttq": "89",
       "result": ""
     },
     {
-      "time": "01:15 AM",
-      "matchup": "87 Miami OH vs 41 SMU NCAA-T truTV",
+      "time": "11:25 PM",
+      "matchup": "33 BYU vs 43 Texas NCAA-T TBS",
+      "network": "TBS",
+      "trank_line": "BYU -1.9, 84-82 (57%)",
+      "ttq": "83",
+      "result": ""
+    },
+    {
+      "time": "11:35 PM",
+      "matchup": "24 Saint Mary's vs 40 Texas A&M NCAA-T truTV",
       "network": "truTV",
-      "trank_line": "SMU -6.4, 86-80 (71%)",
-      "ttq": "68",
+      "trank_line": "Saint Mary's -2.8, 77-74 (60%)",
+      "ttq": "82",
       "result": ""
     },
     {
-      "time": "01:00 AM",
-      "matchup": "81 Dayton at 134 Bradley ESPNU",
-      "network": "ESPNU",
-      "trank_line": "Dayton -1.1, 73-72 (55%)",
-      "ttq": "66",
+      "time": "10:50 PM",
+      "matchup": "27 North Carolina vs 47 VCU NCAA-T TNT",
+      "network": "TNT",
+      "trank_line": "North Carolina -3.4, 79-76 (62%)",
+      "ttq": "79",
       "result": ""
     },
     {
-      "time": "01:00 AM",
-      "matchup": "106 Sam Houston St. at 53 New Mexico ESPN+",
-      "network": "ESPN+",
-      "trank_line": "New Mexico -9.8, 87-77 (80%)",
-      "ttq": "58",
+      "time": "05:30 PM",
+      "matchup": "17 Louisville vs 49 South Florida NCAA-T TNT",
+      "network": "TNT",
+      "trank_line": "Louisville -7.3, 85-78 (74%)",
+      "ttq": "77",
       "result": ""
     },
     {
-      "time": "03:00 AM",
-      "matchup": "99 Saint Joseph's at 86 Colorado St. ESPNU",
-      "network": "ESPNU",
-      "trank_line": "Colorado St. -4.6, 74-69 (68%)",
-      "ttq": "57",
+      "time": "04:15 PM",
+      "matchup": "23 Ohio St. vs 50 TCU NCAA-T CBS",
+      "network": "CBS",
+      "trank_line": "Ohio St. -5.0, 76-71 (68%)",
+      "ttq": "74",
       "result": ""
     },
     {
-      "time": "03:00 AM",
-      "matchup": "111 Illinois Chicago at 69 California ESPN2",
-      "network": "ESPN2",
-      "trank_line": "California -7.5, 76-69 (77%)",
-      "ttq": "54",
+      "time": "07:15 PM",
+      "matchup": "74 McNeese St. vs 10 Vanderbilt NCAA-T truTV",
+      "network": "truTV",
+      "trank_line": "Vanderbilt -10.9, 81-70 (84%)",
+      "ttq": "64",
+      "result": ""
+    },
+    {
+      "time": "05:50 PM",
+      "matchup": "93 High Point vs 21 Wisconsin NCAA-T TBS",
+      "network": "TBS",
+      "trank_line": "Wisconsin -12.5, 89-77 (85%)",
+      "ttq": "63",
+      "result": ""
+    },
+    {
+      "time": "08:25 PM",
+      "matchup": "19 Arkansas vs 117 Hawaii NCAA-T TBS",
+      "network": "TBS",
+      "trank_line": "Arkansas -14.7, 88-73 (89%)",
+      "ttq": "59",
+      "result": ""
+    },
+    {
+      "time": "11:10 PM",
+      "matchup": "197 Howard vs 2 Michigan NCAA-T CBS",
+      "network": "CBS",
+      "trank_line": "Michigan -27.5, 91-64 (98%)",
+      "ttq": "55",
       "result": ""
     },
     {
       "time": "02:00 AM",
-      "matchup": "135 Murray St. at 77 Nevada ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Nevada -10.1, 87-77 (81%)",
+      "matchup": "11 Gonzaga vs 146 Kennesaw St. NCAA-T TBS",
+      "network": "TBS",
+      "trank_line": "Gonzaga -18.5, 88-70 (94%)",
+      "ttq": "54",
+      "result": ""
+    },
+    {
+      "time": "08:05 PM",
+      "matchup": "12 Michigan St. vs 114 North Dakota St. NCAA-T TNT",
+      "network": "TNT",
+      "trank_line": "Michigan St. -13.9, 78-64 (91%)",
+      "ttq": "53",
+      "result": ""
+    },
+    {
+      "time": "01:25 AM",
+      "matchup": "6 Illinois vs 147 Penn NCAA-T TNT",
+      "network": "TNT",
+      "trank_line": "Illinois -21.3, 86-65 (96%)",
+      "ttq": "53",
+      "result": ""
+    },
+    {
+      "time": "02:10 AM",
+      "matchup": "5 Houston vs 136 Idaho NCAA-T truTV",
+      "network": "truTV",
+      "trank_line": "Houston -18.9, 77-58 (96%)",
       "ttq": "51",
       "result": ""
     },
     {
-      "time": "12:00 AM",
-      "matchup": "156 Kent St. at 110 Illinois St. ESPN+",
-      "network": "ESPN+",
-      "trank_line": "Illinois St. -7.6, 81-74 (76%)",
+      "time": "06:50 PM",
+      "matchup": "1 Duke vs 186 Siena NCAA-T CBS",
+      "network": "CBS",
+      "trank_line": "Duke -24.4, 81-56 (98%)",
       "ttq": "49",
       "result": ""
     },
     {
-      "time": "10:40 PM",
-      "matchup": "284 Lehigh vs 281 Prairie View A&M NCAA-T truTV",
+      "time": "04:40 PM",
+      "matchup": "20 Nebraska vs 142 Troy NCAA-T truTV",
       "network": "truTV",
-      "trank_line": "Prairie View A&M -0.2, 75-74 (51%)",
-      "ttq": "49",
-      "result": ""
-    },
-    {
-      "time": "11:00 PM",
-      "matchup": "151 Navy at 66 Wake Forest ESPNU",
-      "network": "ESPNU",
-      "trank_line": "Wake Forest -11.6, 80-68 (85%)",
-      "ttq": "45",
+      "trank_line": "Nebraska -14.3, 76-61 (92%)",
+      "ttq": "48",
       "result": ""
     }
   ]
